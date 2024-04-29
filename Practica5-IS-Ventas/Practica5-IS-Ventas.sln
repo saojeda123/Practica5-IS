@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{E2A1A496-D96F-4F78-BFEF-912D46813369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{1AB60660-3A72-46E8-AC8E-69FDAB9A056F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{CF914EE7-BA3E-4A8E-9B14-54DE8F90015B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A1A496-D96F-4F78-BFEF-912D46813369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A1A496-D96F-4F78-BFEF-912D46813369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A1A496-D96F-4F78-BFEF-912D46813369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A1A496-D96F-4F78-BFEF-912D46813369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB60660-3A72-46E8-AC8E-69FDAB9A056F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB60660-3A72-46E8-AC8E-69FDAB9A056F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB60660-3A72-46E8-AC8E-69FDAB9A056F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB60660-3A72-46E8-AC8E-69FDAB9A056F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF914EE7-BA3E-4A8E-9B14-54DE8F90015B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF914EE7-BA3E-4A8E-9B14-54DE8F90015B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF914EE7-BA3E-4A8E-9B14-54DE8F90015B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF914EE7-BA3E-4A8E-9B14-54DE8F90015B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC611763-B06B-4AA7-8A7B-16495D2971A6}
+	EndGlobalSection
+EndGlobal
